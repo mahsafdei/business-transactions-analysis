@@ -19,6 +19,7 @@ Based on the analysis, the following business insights were identified:
 ![Monthly Revenue Trend](Images/Monthly_Revenue_Trend.png)
 
 *Note: The chart above illustrates the growth and seasonality patterns discovered during the EDA phase.*
+
 ## 🛠️ How to Run
 Follow these steps to set up and run the analysis on your local machine:
 
@@ -30,7 +31,7 @@ cd business-transactions-analysis
 2.  **Set Up a Virtual Environment (Optional but Recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
 3.  **Install Dependencies:**
