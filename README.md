@@ -27,30 +27,30 @@ Seasonal Trends: Clear spikes in revenue are observed in the fourth quarter (Q4)
 
 📈 Monthly Revenue Visualization
 Note: The chart above illustrates the growth and seasonality patterns discovered during the EDA phase.
-
 🛠️ How to Run
 Follow these steps to set up and run the analysis on your local machine:
 
 1. Clone the Repository:
 ```bash
-git clone [https://github.com/mahsafdei/business-transactions-analysis.git](https://github.com/mahsafdei/business-transactions-analysis.git)
+git clone https://github.com/mahsafdei/business-transactions-analysis.git
 cd business-transactions-analysis
 ```
 
 2.  **Set Up a Virtual Environment (Optional but Recommended):**
     ```bash
-    python -m venv venv
+python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
 3.  **Install Dependencies:**
     ```bash
-   pip install pandas matplotlib seaborn notebook
+  pip install pandas matplotlib seaborn notebook
     ```
 
-4.  **Run the Analysis:**
-    * Open notebooks/sales_analysis.ipynb in Jupyter Notebook or VS Code.
-    * Explore the sql/ folder for standalone data extraction queries
+4. Run the Analysis:
+Open notebooks/sales_analysis.ipynb in Jupyter Notebook or VS Code.
+
+Explore the sql/ folder for standalone data extraction queries.
     ## 👤 About Me
 I am a Data Analyst with a Master’s degree in **Mathematics** and a professional background in **Accounting**. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
 - 🌍 **Experience:** Data analysis and financial reporting in both **Iran** and **Canada**.
