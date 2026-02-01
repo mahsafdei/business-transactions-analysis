@@ -23,10 +23,10 @@ Based on the analysis, the following business insights were identified:
 Follow these steps to set up and run the analysis on your local machine:
 
 ### 1. Clone the Repository:
-\```bash
+```bash
 git clone https://github.com/mahsafdei/business-transactions-analysis.git
 cd business-transactions-analysis
-\```
+```
 
 2.  **Set Up a Virtual Environment (Optional but Recommended):**
     ```bash
