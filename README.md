@@ -20,6 +20,8 @@ Based on the analysis, the following business insights were identified:
 
 *Note: The chart above illustrates the growth and seasonality patterns discovered during the EDA phase.*
 
+---
+
 ## 🛠️ How to Run
 Follow these steps to set up and run the analysis on your local machine:
 
@@ -27,18 +29,22 @@ Follow these steps to set up and run the analysis on your local machine:
 ```bash
 git clone https://github.com/mahsafdei/business-transactions-analysis.git
 cd business-transactions-analysis
+```
 
 2.  **Set Up a Virtual Environment (Optional but Recommended):**
+```bash
     python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 3.  **Install Dependencies:**
+```bash
     pip install pandas matplotlib seaborn notebook
+```
 
-4. Run the Analysis:
-Open the notebooks/sales_analysis.ipynb file in Jupyter Notebook or VS Code.
-
-Check the sql/ folder for standalone SQL queries.
+4.  **Run the Analysis:**
+* Open the `notebooks/sales_analysis.ipynb` file in Jupyter Notebook or VS Code to see the Python analysis and visualizations.
+* Check the `sql/` folder for the standalone SQL queries used for data extraction.
 👤 About Me
 I am a Data Analyst with a Master’s degree in Mathematics and a professional background in Accounting. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
 
