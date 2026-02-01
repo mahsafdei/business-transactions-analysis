@@ -25,25 +25,25 @@ Follow these steps to set up and run the analysis on your local machine:
 
 ### 1. Clone the Repository:
 ```bash
-git clone [https://github.com/mahsafdei/business-transactions-analysis.git](https://github.com/mahsafdei/business-transactions-analysis.git)
+git clone https://github.com/mahsafdei/business-transactions-analysis.git
 cd business-transactions-analysis
 
 2.  **Set Up a Virtual Environment (Optional but Recommended):**
-    ```bash
     python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
 
 3.  **Install Dependencies:**
-    ```bash
     pip install pandas matplotlib seaborn notebook
-    ```
 
-4.  **Run the Analysis:**
-    * Open the `notebooks/sales_analysis.ipynb` file in Jupyter Notebook or VS Code to see the Python analysis and visualizations.
-    * Check the `sql/` folder for the standalone SQL queries used for data extraction.
-    ## 👤 About Me
-I am a Data Analyst with a Master’s degree in **Mathematics** and a professional background in **Accounting**. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
-- 🌍 **Experience:** Data analysis and financial reporting in both **Iran** and **Canada**.
-- 💻 **Tech Stack:** Python (Pandas, Matplotlib), SQL, Excel, and Tableau.
-- 📫 **Connect with me:** linkedin.com/in/mahsa-fadaei-980a55294
+4. Run the Analysis:
+Open the notebooks/sales_analysis.ipynb file in Jupyter Notebook or VS Code.
+
+Check the sql/ folder for standalone SQL queries.
+👤 About Me
+I am a Data Analyst with a Master’s degree in Mathematics and a professional background in Accounting. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
+
+🌍 Experience: Data analysis and financial reporting in both Iran and Canada.
+
+💻 Tech Stack: Python (Pandas, Matplotlib), SQL, Excel, and Tableau.
+
+📫 Connect with me:linkedin.com/in/mahsa-fadaei-980a55294
