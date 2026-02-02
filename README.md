@@ -46,13 +46,11 @@ pip install pandas matplotlib seaborn notebook
 * Open the `notebooks/sales_analysis.ipynb` file in Jupyter Notebook or VS Code to see the Python analysis and visualizations.
 * Check the `sql/` folder for the standalone SQL queries used for data extraction.
 
- --- 
+---
 
-### 👤 About Me
-I am a Data Analyst with a Master’s degree in Mathematics and a professional background in Accounting. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
+## 👤 About Me
+I am a **Data Analyst** with a Master’s degree in **Mathematics** and a professional background in **Accounting**. My expertise lies in bridging the gap between complex numerical data and actionable business insights.
 
-🌍 Experience: Data analysis and financial reporting in both Iran and Canada.
-
-💻 Tech Stack: Python (Pandas, Matplotlib), SQL, Excel, and Tableau.
-
-📫 Connect with me:linkedin.com/in/mahsa-fadaei-980a55294
+* 🌍 **Experience:** Data analysis and financial reporting in both **Iran** and **Canada**.
+* 💻 **Tech Stack:** Python (Pandas, Matplotlib), SQL, Excel, and Tableau.
+* 📫 **Connect with me:** linkedin.com/in/mahsa-fadaei-980a55294
